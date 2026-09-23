@@ -1,9 +1,10 @@
 ---
-title: "Diario 1"
-authors: "Luís Felipe Albuquerque Fernandes"
-tags: ["formacao-equipe", "sprint 1-2"]
-date: 2026-09-23
+title: "Formação de equipe — exemplo ilustrativo"
+authors:
+tags: []
+date: 2027-03-10
 ---
+
 
 ## Descreva como está sendo o processo de organização da sua equipe até agora — papéis, expectativas, primeiras decisões.
 
