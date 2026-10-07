@@ -6,6 +6,7 @@
 - Minhas entradas
   - [Exemplo – Formação de equipe](blog/2027-03-10-formacao-de-equipe-exemplo.md)
   - [Diário 1 - 23/09](blog/2026-09-23-diario1.md)
+  - [Diário 2 - 07/10](blog/2026-10-07-diario2.md)
 <!--
 Toda vez que você criar uma entrada nova em blog/ (5x no semestre, uma por
 fase), adicione uma linha aqui embaixo do item "Minhas entradas", apontando
